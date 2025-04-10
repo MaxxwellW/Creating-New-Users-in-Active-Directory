@@ -24,39 +24,39 @@ This demonstation outlines how to create new Users and Admins within Active Dire
 - Confiure User/Admin Information
 
 <h2>Demonstation And Steps</h2>
-
+Right click the Windows 'Start' or search "Active Directory Users and Computers" to open the action window.
+<p>
+Select the Network Domain and right click 'Users" to create a new user
 <p>
 <img src="https://i.imgur.com/P0j4BlK.png" />
 </p>
 <p>
 
-</p>
-<br />
-
+Input User Credentials
 <p>
 <img src="https://i.imgur.com/tHnB4oM.png" />
 </p>
 <p>
 
-
+Select the Network Domain and right click a created folder for "_ADMINS" to create a new admin
 <p>
 <img src="https://i.imgur.com/vyu4rn1.png" />
 </p>
 <p>
 
-
+Input Admin Credentials
 <p>
 <img src="https://i.imgur.com/J0TALD2.png" />
 </p>
 <p>
-
+Input desired password and configuration for User/Admin
 
 <p>
 <img src="https://i.imgur.com/IwSm1Uw.png" />
 </p>
 <p>
 
-
+Finish to complete new User/Admin
 <p>
 <img src="https://i.imgur.com/gbtC2bR.png" />
 </p>
