@@ -3,28 +3,27 @@
 </p>
 
 <h1>Creating New Users/Admins </h1> 
-This demonstation outlines how to create new Users and Admins within Active Directory.<br />
+This demonstation outlines how to create new Users and Admins within Active Directory. This is important when configuring for new traff a developing network.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computers)
 - Remote Desktop
 - Microsoft Active Directory
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
+- Windows Server 2022 (admin)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Locate Active Directory Users and Computers action page
+- Create new user through the Network Domain
+- Confiure User/Admin Information
 
-<h2>Configuration Steps</h2>
+<h2>Demonstation And Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/P0j4BlK.png" />
@@ -39,8 +38,6 @@ This demonstation outlines how to create new Users and Admins within Active Dire
 </p>
 <p>
 
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/vyu4rn1.png" />
