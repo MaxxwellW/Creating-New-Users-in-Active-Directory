@@ -1,11 +1,12 @@
 <p align="center">
+<h1Creating New Users/Admins</h1> 
 
 <p>
 <img src="https://i.imgur.com/0i7Z0Rh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-<h1Creating New Users/Admins</h1>
+
 This demonstation outlines how to create new Users and Admins within Active Directory.<br />
 
 
