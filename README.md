@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/0i7Z0Rh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0i7Z0Rh.jpeg" />
 </p>
 
 <h1>Creating New Users/Admins </h1> 
@@ -27,7 +27,7 @@ This demonstation outlines how to create new Users and Admins within Active Dire
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/P0j4BlK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P0j4BlK.png" />
 </p>
 <p>
 
@@ -35,7 +35,7 @@ This demonstation outlines how to create new Users and Admins within Active Dire
 <br />
 
 <p>
-<img src="https://i.imgur.com/tHnB4oM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tHnB4oM.png" />
 </p>
 <p>
 
@@ -43,25 +43,25 @@ This demonstation outlines how to create new Users and Admins within Active Dire
 <br />
 
 <p>
-<img src="https://i.imgur.com/vyu4rn1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vyu4rn1.png" />
 </p>
 <p>
 
 
 <p>
-<img src="https://i.imgur.com/J0TALD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J0TALD2.png" />
 </p>
 <p>
 
 
 <p>
-<img src="https://i.imgur.com/IwSm1Uw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IwSm1Uw.png" />
 </p>
 <p>
 
 
 <p>
-<img src="https://i.imgur.com/gbtC2bR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gbtC2bR.png" />
 </p>
 <p>
 
